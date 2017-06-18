@@ -1,1 +1,2 @@
 # szinskala
+Színskála készítése - Javascript
